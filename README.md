@@ -3,10 +3,9 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.</br></br>
-    🌱 I am currently learning **Python** and also interested in **Web Development**.</br></br>
+    🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.</br></br>
+    🌱 I am currently learning Python and also interested in Web Development.</br></br>
     🎯 My Goal is to Contribute to as many **open source project** as possible.</br></br>
-    ✨ I love to create different types of **contents**.
   </td>
 
 </tr>
